@@ -4,13 +4,13 @@ go 1.22.2
 
 require (
 	github.com/gopi-frame/contract v0.0.0-20240517053949-c2988e7dcb26
-	github.com/gopi-frame/support v0.0.0-20240517053805-13225ed75176
+	github.com/gopi-frame/support v0.0.0-20240517030649-e39b6da6876b
 	github.com/spf13/viper v1.18.2
 )
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/gopi-frame/exception v0.0.0-20240517030638-8d9d2c8deff7 // indirect
+	github.com/gopi-frame/exception v0.0.0-20240517053912-ba20d5865bca // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
