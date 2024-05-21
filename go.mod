@@ -10,7 +10,7 @@ require (
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/gopi-frame/exception v0.0.0-20240517053912-ba20d5865bca // indirect
+	github.com/gopi-frame/exception v0.0.0-20240517053912-ba20d5865bca
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
