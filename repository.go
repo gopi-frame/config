@@ -24,7 +24,7 @@ func instance() *koanf.Koanf {
 	return k
 }
 
-// New returns a new konaf instance
+// New returns a new koanf instance
 func New() *koanf.Koanf {
 	return koanf.New(DefaultDelim)
 }
